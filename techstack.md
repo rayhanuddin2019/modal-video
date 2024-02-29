@@ -3,15 +3,15 @@
 ## Tech Stack
 rayhanuddin2019/modal-video is built on the following main stack:
 
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Browserify](http://browserify.org/) – Front End Package Manager
-- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [ESLint](http://eslint.org/) – Code Review
-- [nodemon](http://nodemon.io/) – node.js Application Monitoring
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [Nchan](https://nchan.io/) – Realtime Backend / API
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Browserify](http://browserify.org/) – Front End Package Manager
+- [ESLint](http://eslint.org/) – Code Review
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [nodemon](http://nodemon.io/) – node.js Application Monitoring
 
 Full tech stack [here](/techstack.md)
 
@@ -21,15 +21,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 rayhanuddin2019/modal-video is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/10894/nchan_icon.png' alt='Nchan'/> [Nchan](https://nchan.io/) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
 
 Full tech stack [here](/techstack.md)
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [rayhanuddin2019/modal-video](https://github.com/rayhanuddin2019/modal-video)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|34<br/>Tools used|01/05/24 <br/>Report generated|
+|34<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
